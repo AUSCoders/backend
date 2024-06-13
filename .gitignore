@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+/myenvsbackend
+.myenvsbackend
+myenvsbackend/
 # Distribution / packaging
 .Python
 build/
